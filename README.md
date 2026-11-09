@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./profile-banner.svg" alt="Arafat Haque Biswas — CSE student and IT support officer" width="100%" />
+<img src="./profile-intro.gif" alt="Animated greeting banner: Hi, I'm Arafat" width="100%" />
 
 ### Computer Science & Engineering student · IT Support Officer
 **BRAC University** · Bangladesh
