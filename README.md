@@ -5,7 +5,7 @@
 <img src="./profile-intro.gif" alt="Animated greeting banner: Hi, I'm Arafat" width="100%" />
 
 ### Computer Science & Engineering student · IT Support Officer
-**BRAC University** · Bangladesh
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/arafathaquebiswas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Source-0f766e?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/arafathaquebiswas/officialPortfolio_2025)
