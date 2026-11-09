@@ -52,7 +52,7 @@ I’m studying Computer Science and Engineering at **BRAC University** and work 
 
 <div align="center">
 
-<img src="./profile-stats.svg" alt="GitHub profile snapshot: 40 public repositories, 476 contributions in the last year, 5 followers, and 6 pinned projects as of November 9, 2026" width="100%" />
+<img src="./profile-stats.svg" alt="GitHub profile snapshot: 40 public repositories, 478 contributions in the last year, 5 followers, and 6 pinned projects as of November 9, 2026" width="100%" />
 
 </div>
 
