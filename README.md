@@ -52,16 +52,11 @@ I’m studying Computer Science and Engineering at **BRAC University** and work 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arafathaquebiswas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub overview stats for Arafat" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathaquebiswas&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=arafathaquebiswas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="./profile-stats.svg" alt="GitHub profile snapshot: 40 public repositories, 476 contributions in the last year, 5 followers, and 6 pinned projects as of November 9, 2026" width="100%" />
 
 </div>
 
-*Activity cards reflect public GitHub data. GitHub’s contribution calendar appears below this README on my profile.*
+*Snapshot taken November 9, 2026. GitHub’s live contribution calendar appears below this README.*
 
 ---
 
